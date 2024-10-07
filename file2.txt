@@ -15,3 +15,4 @@ salman
 13. git branch -> melihat semua cabang
 14. git init -> menginisiasi folder menjadi repo
 15. git reflog -> untuk melihat riwayat commit yang baru
+16. git restore -> untuk undo file working  
