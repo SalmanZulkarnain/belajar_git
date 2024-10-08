@@ -1,5 +1,3 @@
-salman
-
 1. ls -> melihat isi folder
 2. pwd -> melihat PATH folder
 3. cd -> mengakses folder
